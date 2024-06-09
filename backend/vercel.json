@@ -2,8 +2,9 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "/server.js"
+      "destination": "/api/server.js"
     }
   ]
 }
+
 
